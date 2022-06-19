@@ -1,0 +1,49 @@
+.body{
+  margin:0;
+  font-fmily:syste,-ui;
+
+}
+.parallax{
+  background-color: #ff75a0;
+  height:max-content;
+  background-attachment:fixed;
+  background-position:center;
+  background-repeat:no-repeat;
+}
+.page-title{
+  background:#ff75a0;
+  text-align:center;
+  color:white;
+  padding:50px;
+  font-variant:small-caps;
+  font-size:100px;
+  font-family:fantasy;
+  letter-spacing:20px;
+}
+.menu-ul li:hover{
+background:#5b8c5a;
+transform:scale(1.1);
+}
+.search-box{
+  border:1px solid white;
+  border-radius:50px;
+  background:white;
+  width:max-content;
+  display:inline-block;
+  margin:8px;
+}
+.search-box:hover{
+  box-shadow:0 0 10px 2px #5b85ca;
+  border:1px solid #5b8c5a;
+}
+.search-input{
+  width:250px;
+  border:none;
+  font-size:16px;
+  outline:none;
+  background:transport;
+  margin:15px 0 0 10px;
+}
+.aa{
+  padding-left: 8%;
+}
